@@ -1,4 +1,4 @@
-# Master-Slave-Database-Architecture
+# Master Slave Database Architecture
 
 The objective of this project is to establish communication among multiple devices functioning as master, slave, and client.
 
