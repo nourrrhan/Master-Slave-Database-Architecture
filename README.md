@@ -2,7 +2,7 @@
 
 The objective of this project is to establish communication among multiple devices functioning as master, slave, and client.
 
-Tools: Visual Studio Code.
+Tools: Visual Studio Code, MySQL Workbench.
 
 Languages: go.
 
